@@ -1,0 +1,8 @@
+/node_modules
+/vendor
+/resources/views/admin/layouts/head-tag.blade.php
+/resources/views/app
+/system/Application
+/system/Router
+/system/View
+/system/Request
